@@ -30,5 +30,26 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality:
 
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Day.js
+
+## Submission Details
+
+As part of my submission, I have completed the following:
+
+1. **Deployed Application:** The Weather API can be accessed at: https://shaunxwong.github.io/Weather-API/
+
+2. **GitHub Repository:** The codebase for the Weather API is available in the following GitHub repository: https://github.com/shaunxwong/Weather-API.git
+
+Thank you for reviewing my submission. I look forward to your feedback and suggestions. 
+
+Best regards,
+
+Shaun Wong
 
 
