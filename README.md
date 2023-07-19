@@ -2,7 +2,7 @@
 
 This weather dashboard runs in the browser and features dynamically updated HTML and CSS. It utilizes third-party APIs to retrieve weather data for cities. The main API used is the [5 Day Weather Forecast](https://openweathermap.org/forecast5) API from OpenWeatherMap.
 
-To retrieve weather data for cities, I made requests to the API using the following base URL: `https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}`. In order to make requests, I've obtain an API key by registering on the OpenWeatherMap website. There was a waiting period of up to 2 hours for the API key to become active.
+To retrieve weather data for cities, I made requests to the API using the following base URL: `https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}`. In order to make requests, I've obtained an API key by registering on the OpenWeatherMap website. There was a waiting period of up to 2 hours for the API key to become active.
 
 ## User Story
 
@@ -30,4 +30,5 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/06-server-side-apis-homework-demo.png)
+
+
